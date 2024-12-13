@@ -2,19 +2,20 @@
 <idea-plugin>
 
     <version>0.5</version>
-  <idea-version since-build="180" until-build="204.199999"/>
+  <idea-version since-build="201" until-build="204.*"/>
   <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
   <id>EBReader</id>
   <!-- Public plugin name should be written in Title Case.
        Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
   <name>EBReader</name>
 
-  <vendor email="misterkey952@gmail.com" url="https://github.com/misterkey952/ebreader">毒孤丐</vendor>
+  <vendor email="misterkey952@gmail.com" url="https://github.com/misterkey952/ebreader">Century</vendor>
 
   <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
        Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
        Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
   <description><![CDATA[
+  <b>This is a compact and elegant e-book reader, accompanied by some very useful small tools.</b>
   <h2>电子书阅读器</h2>
     <b>此版本为idea2020附近的版本的特供版，如需体验完整功能请升级你的ide并下载最新的本插件</b><br>
     <h3>功能列表</h3>
